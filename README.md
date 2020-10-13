@@ -29,8 +29,9 @@
 
 # Presentations
 
-| Date | Who | Title | Links |
+| Date | Where | Title | Links |
 | --- | --- | --- | --- |
+| 2020_Oct_09 | DevOpsStage Conference | A Guide to Event-driven SRE-inspired DevOps: The end of your monolithic release process |  >[YouTube](https://www.youtube.com/watch?v=f0sNs_h_E7U&list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&index=5)|
 | 2020_Sep_16 | AWS Twitch TV | Advanced Kubernetes Observability with Dynatrace |  >[Twitch TV Episode](https://www.twitch.tv/videos/743201902?collection=VV23gbfLCRbZLg) >[LinkedIn](https://www.linkedin.com/posts/dynatrace_aws-twitch-activity-6711682231678636032-_76A)|
 | 2020_Jul_16 | Dynatrace Performance Clinics | Dynatrace for Jira - Transform your operations to work smarter not harder with Tempest | >[YouTube](https://www.youtube.com/watch?v=NTzuKREVl6Q&amp) |
 | 2020_May_6 | Dynatrace Performance Clinics | Automate service delivery with Keptn, Atlassian and Dynatrace | >[YouTube](https://www.youtube.com/watch?v=XUDaKV-iR2g&amp) |
