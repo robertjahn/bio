@@ -27,6 +27,12 @@
 | LinkedIn Article | 2019_Mar_1 | [Joining the Dynatrace team – challenge accepted](https://www.linkedin.com/pulse/joining-dynatrace-team-challenge-accepted-rob-jahn/) |
 | LinkedIn Article | 2020_Jan_31 | [2019 at Dynatrace: joining an industry leader](https://www.linkedin.com/pulse/2019-dynatrace-joining-industry-leader-rob-jahn/) |
 
+# Videos
+
+| Date | Where | Title | Links |
+| --- | --- | --- | --- |
+| 2019_Jul_01 | Microsoft Azure | Introducing Azure Lighthouse | > [Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
+
 # Presentations
 
 | Date | Where | Title | Links |
@@ -44,7 +50,6 @@
 | 2019_May_29 | DevOps Days Toronto | Short welcome on mainstage| >[LinkedIn](https://www.linkedin.com/posts/ugcPost-6539861615901233152-6fbE) |
 | 2019_May_6 | Microsoft Build 2019 Conference | Using AI and automation to build resiliency into Azure DevOps | >[Video](https://azure.microsoft.com/en-in/resources/videos/build-2019-using-ai-and-automation-to-build-resiliency-into-azure-devops)  | >[Slides](https://www.slideshare.net/RobJahn/using-ai-and-automation-to-build-resiliency-into-azure-dev-ops) | >[LinkedIn](https://www.linkedin.com/posts/dynatrace_microsoft-build-2019-developer-conference-activity-6530074854895468544-1jTA) |
 | 2019_Apr_29 | Seattle SRE Meetup | Embracing service-level-objectives of your microservices in your CI/CD | >[YouTube](https://www.youtube.com/watch?v=qJXeDHfJkIU) >[Reg Page](https://www.meetup.com/Beyond-Seattle-SRE/events/268296476/) |
-
 
 # Code
 
