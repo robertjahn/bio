@@ -33,6 +33,7 @@
 
 | Date | Where | Title | Links |
 | --- | --- | --- | --- |
+| 2020_Nov_01 | Dynatrace Website | Introducing AWS Partnership with Demo | > https://www.dynatrace.com/technologies/aws-monitoring] |
 | 2019_Jul_01 | Microsoft Azure | Introducing Azure Lighthouse | > [Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Presentations
