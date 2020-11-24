@@ -10,6 +10,8 @@
 
 | Where | Date | Title |
 | --- | --- | --- |
+| Dynatrace Blog | 2020_Nov_24 | [Using Dynatrace to master the 5 pillars of the AWS Well-Architected Framework (Part 1)](https://www.dynatrace.com/news/blog/using-dynatrace-to-master-the-5-pillars-of-the-aws-well-architected-framework-part-1/) |
+| Dynatrace Blog | 2020_Nov_19 | [Simplify and standardize Dynatrace integration to Jenkins software delivery pipelines with shared libraries](https://www.dynatrace.com/news/blog/simplify-and-standardize-dynatrace-integration-to-jenkins-software-delivery-pipelines-with-shared-libraries/) |
 | Dynatrace Blog | 2020_Aug_24 | [Dynatrace and AWS Systems Manager – Automate OneAgent distribution securely, centrally and at scale](https://www.dynatrace.com/news/blog/dynatrace-and-aws-systems-manager-automate-oneagent-distribution-securely-centrally-and-at-scale/) |
 | Dynatrace Blog | 2020_Apr_14 | [AWS and Dynatrace automation hit the jackpot at Perform Las Vegas](https://www.dynatrace.com/news/blog/aws-and-dynatrace-automation-hit-the-jackpot-at-perform-las-vegas/)
 | Dynatrace Blog | 2020_Mar_3 | [Up your quality and agility factor – using automation to build &quot;performance-as-a-self-service&quot;](https://www.dynatrace.com/news/blog/up-your-quality-and-agility-factor-using-automation-to-build-performance-as-a-self-service/) |
