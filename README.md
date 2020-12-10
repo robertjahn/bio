@@ -10,6 +10,7 @@
 
 | Where | Date | Title |
 | --- | --- | --- |
+| Dynatrace Blog | 2020_Dec_10 | [Panel Recap: How is your performance and reliability strategy aligned with your customer experience?](https://www.dynatrace.com/news/blog/panel-recap-how-is-your-performance-and-reliability-strategy-aligned-with-your-customer-experience/) |
 | Dynatrace Blog | 2020_Nov_24 | [Using Dynatrace to master the 5 pillars of the AWS Well-Architected Framework (Part 1)](https://www.dynatrace.com/news/blog/using-dynatrace-to-master-the-5-pillars-of-the-aws-well-architected-framework-part-1/) |
 | Dynatrace Blog | 2020_Nov_19 | [Simplify and standardize Dynatrace integration to Jenkins software delivery pipelines with shared libraries](https://www.dynatrace.com/news/blog/simplify-and-standardize-dynatrace-integration-to-jenkins-software-delivery-pipelines-with-shared-libraries/) |
 | Dynatrace Blog | 2020_Aug_24 | [Dynatrace and AWS Systems Manager – Automate OneAgent distribution securely, centrally and at scale](https://www.dynatrace.com/news/blog/dynatrace-and-aws-systems-manager-automate-oneagent-distribution-securely-centrally-and-at-scale/) |
