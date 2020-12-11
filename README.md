@@ -1,6 +1,8 @@
 
 # Biography
 
+<img src="pic.png"/>
+
 [Rob Jahn](https://www.linkedin.com/in/robjahn/) is a DevOps advocate and Technical Partner Manager at Dynatrace software supporting market research and shaping strategic technology partner roadmaps with the hottest and newest technology companies. Rob develops and leads technical workshops and is a frequent speaker and blogger. Prior to Dynatrace, Rob was a technical services Director advising and building successful software, DevOps, and test automation solutions.
 
 # Blogs
