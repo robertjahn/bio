@@ -37,34 +37,37 @@
 
 | Date | Where | Title | Links |
 | --- | --- | --- | --- |
-| 2021 | Dynatrace Website | Partner Cafe series | [Dynatrace youTube](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
-| 2020_Nov_01 | Dynatrace Website | Introducing AWS Partnership with Demo | > https://www.dynatrace.com/technologies/aws-monitoring] |
-| 2019_Jul_01 | Microsoft Azure | Introducing Azure Lighthouse | > [Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
+| 2021 | Dynatrace Website | Partner Cafe series | >[Dynatrace youTube](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
+| 2020_Nov_01 | Dynatrace Website | Introducing AWS Partnership with Demo | >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
+| 2019_Jul_01 | Microsoft Azure | Introducing Azure Lighthouse | >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Presentations
 
 | Date | Where | Title | Links |
 | --- | --- | --- | --- |
 | 2021_Mar_30 | xMatters BriteTalk | Beyond Intelligent Incident Management: AIOps Done Right | >[BrightTalk WebCast](https://www.brighttalk.com/webcast/12363/470224) >[LinkedIn](https://www.linkedin.com/posts/bonjourerin_ep3-beyond-intelligent-incident-management-activity-6775148229441961984-bgOe) | 
-| 2021_Mar_30 | CMG | How to transform faster by solving modernization challenges | [CMG](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
-| 2021_Mar_01 | xMatters Demo Dayz | xMatters + Dynatrace, A Great Customer Experience | [xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) | 
-| 2021_Feb_25 | LaunchDarkly | Accelerating Remediation with Automation | [LinkedIn](https://www.linkedin.com/posts/robjahn_continuousdelivery-innovation-automation-activity-6765320686366932992-sDDf)
+| 2021_Mar_30 | CMG | How to transform faster by solving modernization challenges | >[CMG](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
+| 2021_Mar_01 | xMatters Demo Dayz | xMatters + Dynatrace, A Great Customer Experience | >[xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) | 
+| 2021_Feb_25 | LaunchDarkly | Accelerating Remediation with Automation | >[LinkedIn](https://www.linkedin.com/posts/robjahn_continuousdelivery-innovation-automation-activity-6765320686366932992-sDDf)
 | 2021_Jan_01 | Dynatrace Perform 2021 | Solving modernization challenges with Microsoft Azure and Dynatrace | >[LinkedIn](https://www.linkedin.com/posts/robjahn_perform-2021-dynatrace-activity-6762778635523956736-U-Ys) >[Dynatrace](https://www.dynatrace.com/perform-2021) | 
 | 2021_Jan_01 | Dynatrace Perform 2021 | Application Modernization with AWS: Three Key Considerations | >[LinkedIn](https://www.linkedin.com/posts/robjahn_perform-2021-dynatrace-activity-6762491553807142912-46QT) >[Dynatrace](https://www.dynatrace.com/perform-2021) | 
 | 2020_Oct_09 | DevOpsStage Conference | A Guide to Event-driven SRE-inspired DevOps: The end of your monolithic release process |  >[YouTube](https://www.youtube.com/watch?v=f0sNs_h_E7U&list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&index=5)|
 | 2020_Sep_16 | AWS Twitch TV | Advanced Kubernetes Observability with Dynatrace |  >[Twitch TV Episode](https://www.twitch.tv/videos/743201902?collection=VV23gbfLCRbZLg) >[LinkedIn](https://www.linkedin.com/posts/dynatrace_aws-twitch-activity-6711682231678636032-_76A)|
 | 2020_Jul_16 | Dynatrace Performance Clinics | Dynatrace for Jira - Transform your operations to work smarter not harder with Tempest | >[YouTube](https://www.youtube.com/watch?v=NTzuKREVl6Q&amp) |
+| 2020_Jun_18 | Dynatrace Webinar | 5 Steps to Accelerate AWS Cloud Migration | >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6676498233591644161/) |
 | 2020_May_6 | Dynatrace Performance Clinics | Automate service delivery with Keptn, Atlassian and Dynatrace | >[YouTube](https://www.youtube.com/watch?v=XUDaKV-iR2g&amp) |
+| 2020_May_01 | Dynatrace Webinar | uccessful Cloud Migration to Microsoft Azure On-demand
+ | >[Video](https://info.dynatrace.com/noram_all_wc_successful_cloud_migration_to_microsoft_azure_14329_od_fulfillment.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6651204308081659904-2dpK/) |
 | 2020_Apr_30 | CloudNatives Lightning talks | Embracing service-level-objectives of your microservices in your CI/CD | >[Reg Page](https://events.nebulaworks.com/lightningtalk-april) >[YouTube](https://www.youtube.com/watch?v=F3OT38Q3USc) |
-| 2020_Apr_16 | Keptn Community Meeting | Automate service delivery with Keptn and Atlassian | >[YouTube](https://www.youtube.com/watch?v=wx9roK4AnCo&t=755s) |
+| 2020_Apr_29 | Seattle SRE Meetup | Embracing service-level-objectives of your microservices in your CI/CD | >[YouTube](https://www.youtube.com/watch?v=qJXeDHfJkIU) >[Reg Page](https://www.meetup.com/Beyond-Seattle-SRE/events/268296476/) || 2020_Apr_16 | Keptn Community Meeting | Automate service delivery with Keptn and Atlassian | >[YouTube](https://www.youtube.com/watch?v=wx9roK4AnCo&t=755s) |
 | 2020_Feb_16 | Dynatrace Perform 2020 | Increase quality and agility with performance as a self-serviceRelease Better Software Faster | >[Slides](https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&amp;eventid=2255809&amp;sessionid=1&amp;username=&amp;partnerref=&amp;format=fhvideo1&amp;mobile=false&amp;flashsupportedmobiledevice=false&amp;helpcenter=false&amp;key=F5A15B7190A3E88A8FF276B0A7391BE3&amp;text_language_id=en&amp;playerwidth=1000&amp;playerheight=650&amp;overwritelobby=y&amp;source=GATEWAY-1776389&amp;rId=1776389&amp;rKey=DA9D2E36A16E6B0FDCBE3CF5CA6E427F&amp;oriontokens=eventId-2255809%7CuserId-339806358%7CgatewayId-1776389%7CexperienceId-%7CcontentType-pdf&amp;newConsole=false&amp;nxChe=true&amp;eventuserid=339806358&amp;contenttype=A&amp;mediametricsessionid=299646422&amp;mediametricid=3190464&amp;usercd=339806358&amp;mode=launch) |
 | 2019_Sep_3 | Dynatrace Performance Clinics | Continuous Build and Release Verification with Keptn Quality Gates | >[YouTube](https://www.youtube.com/watch?v=tM9prBoxOWA&amp) |
 | 2019_Sep_12 | New England Java Users Group | Shipping code like a Keptn: Automating your Kubernetes Delivery Pipelines so you can focus on code | >[Reg Page](https://nejug.org/events/2019/09/keptn.html) |
+| 2019_Aug_06 | Toronto DevOps Meetup Group | Shipping code like a Keptn | [LinkedIn](https://www.linkedin.com/posts/robjahn_keptn-activity-6564913586899087365-Nx-4) |
 | 2019_July_10 | Charlotte Microsoft Azure Meetup Group | Ship code like a keptn: Automating Azure Kubernetes Service Delivery Pipelines | >[Reg Page](https://www.meetup.com/Charlotte-Microsoft-Azure1/events/qlmdrqyzkbfb) | >[LinkedIn](https://www.linkedin.com/posts/activity-6555455700435300352-41SP) |
 | 2019_July_30 | DevOps &amp; Drinks Meetup Group – NYC | Shipping Code like a keptn: Automating your Kubernetes Delivery Pipelines so you can focus on code | >[LinkedIn](https://www.linkedin.com/posts/activity-6562034936981835776-k2V0) >[Reg Page](https://www.meetup.com/DevOps-Docker-and-Beers/events/262650862/) |
 | 2019_May_29 | DevOps Days Toronto | Short welcome on mainstage| >[LinkedIn](https://www.linkedin.com/posts/ugcPost-6539861615901233152-6fbE) |
 | 2019_May_6 | Microsoft Build 2019 Conference | Using AI and automation to build resiliency into Azure DevOps | >[Video](https://azure.microsoft.com/en-in/resources/videos/build-2019-using-ai-and-automation-to-build-resiliency-into-azure-devops)  | >[Slides](https://www.slideshare.net/RobJahn/using-ai-and-automation-to-build-resiliency-into-azure-dev-ops) | >[LinkedIn](https://www.linkedin.com/posts/dynatrace_microsoft-build-2019-developer-conference-activity-6530074854895468544-1jTA) |
-| 2019_Apr_29 | Seattle SRE Meetup | Embracing service-level-objectives of your microservices in your CI/CD | >[YouTube](https://www.youtube.com/watch?v=qJXeDHfJkIU) >[Reg Page](https://www.meetup.com/Beyond-Seattle-SRE/events/268296476/) |
 
 # Code
 
@@ -77,14 +80,26 @@ Description | Links |
 | Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | https://github.com/dt-orders/overview |
 | Neotys Performance Testing workshop | https://github.com/dynatrace-neoload-perf-workshop-infra ]
 
+
 # Interviews / Panelist
 
 | Date | Title | Who | Links |
 | --- | --- | --- | --- |
-| Mar_11_2021 | Performance Engineering Customer Event| NeoTys & Orasi | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/)
-| Dec_15_2020 | Performance Engineering Customer Event| NeoTys & Orasi | [LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)
+| Mar_11_2021 | Performance Engineering Customer Event| NeoTys & Orasi | >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/)
+| Dec_15_2020 | Performance Engineering Customer Event| NeoTys & Orasi | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)
 | Oct_23_2019 | DynatraceGo Mexico City | Alina Poulain | >[Reg Page](https://www.dynatrace.com/perform-go/latin-america/mexico-city/) >[Video](https://www.facebook.com/alinapoulainw/videos/interview-rob-jahn-noops-dynatrace/449045522674000/) |
 
 # Workshops
 
-https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV
+| Date | Who | Links |
+| Feb_05_2021 | Dynatrace Perform Modernization | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
+| 2020 | Azure and Dynatrace Virtual| >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
+| Aug_01_2020 | AWS Modernization | >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
+| 2020 | RedHat and Dynatrace - Wisconsin | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) |
+| 2019 | Dynatrace Azure Hands-On CI/CD Workshop - Rocherster NY | >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP) |
+| 2019 | Dynatrace and Azure DevOps - Akron Ohio | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) |
+| 2019 | Dynatrace and Azure DevOps - Clevland Ohio | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509048904774938624-yQHe) |
+| 2019 | Dynatrace and Azure DevOps - Cincinnati Ohio | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6508794802589491200-OUKH) |
+| 2019 | Unbreakable Continuous Delivery Workshop - MTC Boston  | >[LinkedIn](https://www.linkedin.com/posts/robjahn_azuredevops-dynatrace-activity-6505917118201028608-pidZ) |
+
+
