@@ -12,6 +12,7 @@
 
 | Where | Date | Title |
 | --- | --- | --- |
+| AWS | TBD | AWS Control Tower |
 | Dynatrace Blog | 2020_Dec_10 | [Panel Recap: How is your performance and reliability strategy aligned with your customer experience?](https://www.dynatrace.com/news/blog/panel-recap-how-is-your-performance-and-reliability-strategy-aligned-with-your-customer-experience/) |
 | Dynatrace Blog | 2020_Nov_24 | [Using Dynatrace to master the 5 pillars of the AWS Well-Architected Framework (Part 1)](https://www.dynatrace.com/news/blog/using-dynatrace-to-master-the-5-pillars-of-the-aws-well-architected-framework-part-1/) |
 | Dynatrace Blog | 2020_Nov_19 | [Simplify and standardize Dynatrace integration to Jenkins software delivery pipelines with shared libraries](https://www.dynatrace.com/news/blog/simplify-and-standardize-dynatrace-integration-to-jenkins-software-delivery-pipelines-with-shared-libraries/) |
@@ -36,6 +37,7 @@
 
 | Date | Where | Title | Links |
 | --- | --- | --- | --- |
+| 2021 | Dynatrace Website | Partner Cafe series | [Dynatrace youTube](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
 | 2020_Nov_01 | Dynatrace Website | Introducing AWS Partnership with Demo | > https://www.dynatrace.com/technologies/aws-monitoring] |
 | 2019_Jul_01 | Microsoft Azure | Introducing Azure Lighthouse | > [Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
@@ -43,6 +45,12 @@
 
 | Date | Where | Title | Links |
 | --- | --- | --- | --- |
+| 2021_Mar_30 | CMG | How to transform faster by solving modernization challenges | [CMG](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
+| 2021_Mar_30 | CMG | How to transform faster by solving modernization challenges | [CMG](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
+| 2021_Mar_01 | xMatters Demo Dayz | xMatters + Dynatrace, A Great Customer Experience | [xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) | 
+| 2021_Feb_25 | LaunchDarkly | Accelerating Remediation with Automation | [LinkedIn](https://www.linkedin.com/posts/robjahn_continuousdelivery-innovation-automation-activity-6765320686366932992-sDDf)
+| 2021_Jan_01 | Dynatrace Perform 2021 | Solving modernization challenges with Microsoft Azure and Dynatrace | >[LinkedIn](https://www.linkedin.com/posts/robjahn_perform-2021-dynatrace-activity-6762778635523956736-U-Ys) >[Dynatrace](https://www.dynatrace.com/perform-2021) | 
+| 2021_Jan_01 | Dynatrace Perform 2021 | Application Modernization with AWS: Three Key Considerations | >[LinkedIn](https://www.linkedin.com/posts/robjahn_perform-2021-dynatrace-activity-6762491553807142912-46QT) >[Dynatrace](https://www.dynatrace.com/perform-2021) | 
 | 2020_Oct_09 | DevOpsStage Conference | A Guide to Event-driven SRE-inspired DevOps: The end of your monolithic release process |  >[YouTube](https://www.youtube.com/watch?v=f0sNs_h_E7U&list=PL2DFnm8LBPXrCYIr4IXr3BrMDuqJ83GJo&index=5)|
 | 2020_Sep_16 | AWS Twitch TV | Advanced Kubernetes Observability with Dynatrace |  >[Twitch TV Episode](https://www.twitch.tv/videos/743201902?collection=VV23gbfLCRbZLg) >[LinkedIn](https://www.linkedin.com/posts/dynatrace_aws-twitch-activity-6711682231678636032-_76A)|
 | 2020_Jul_16 | Dynatrace Performance Clinics | Dynatrace for Jira - Transform your operations to work smarter not harder with Tempest | >[YouTube](https://www.youtube.com/watch?v=NTzuKREVl6Q&amp) |
@@ -69,8 +77,14 @@ Description | Links |
 | Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | https://github.com/dt-orders/overview |
 | Neotys Performance Testing workshop | https://github.com/dynatrace-neoload-perf-workshop-infra ]
 
-# Interviews
+# Interviews / Panelist
 
 | Date | Title | Who | Links |
 | --- | --- | --- | --- |
+| Mar_11_2021 | Performance Engineering Customer Event| NeoTys & Orasi | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/)
+| Dec_15_2020 | Performance Engineering Customer Event| NeoTys & Orasi | [LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)
 | Oct_23_2019 | DynatraceGo Mexico City | Alina Poulain | >[Reg Page](https://www.dynatrace.com/perform-go/latin-america/mexico-city/) >[Video](https://www.facebook.com/alinapoulainw/videos/interview-rob-jahn-noops-dynatrace/449045522674000/) |
+
+# Workshops
+
+https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV
