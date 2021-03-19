@@ -56,8 +56,7 @@
 | 2020_Jul_16 | Dynatrace Performance Clinics | Dynatrace for Jira - Transform your operations to work smarter not harder with Tempest | >[YouTube](https://www.youtube.com/watch?v=NTzuKREVl6Q&amp) |
 | 2020_Jun_18 | Dynatrace Webinar | 5 Steps to Accelerate AWS Cloud Migration | >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6676498233591644161/) |
 | 2020_May_6 | Dynatrace Performance Clinics | Automate service delivery with Keptn, Atlassian and Dynatrace | >[YouTube](https://www.youtube.com/watch?v=XUDaKV-iR2g&amp) |
-| 2020_May_01 | Dynatrace Webinar | uccessful Cloud Migration to Microsoft Azure On-demand
- | >[Video](https://info.dynatrace.com/noram_all_wc_successful_cloud_migration_to_microsoft_azure_14329_od_fulfillment.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6651204308081659904-2dpK/) |
+| 2020_May_01 | Dynatrace Webinar | Successful Cloud Migration to Microsoft Azure On-demand | >[Video](https://info.dynatrace.com/noram_all_wc_successful_cloud_migration_to_microsoft_azure_14329_od_fulfillment.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6651204308081659904-2dpK/) |
 | 2020_Apr_30 | CloudNatives Lightning talks | Embracing service-level-objectives of your microservices in your CI/CD | >[Reg Page](https://events.nebulaworks.com/lightningtalk-april) >[YouTube](https://www.youtube.com/watch?v=F3OT38Q3USc) |
 | 2020_Apr_29 | Seattle SRE Meetup | Embracing service-level-objectives of your microservices in your CI/CD | >[YouTube](https://www.youtube.com/watch?v=qJXeDHfJkIU) >[Reg Page](https://www.meetup.com/Beyond-Seattle-SRE/events/268296476/) || 2020_Apr_16 | Keptn Community Meeting | Automate service delivery with Keptn and Atlassian | >[YouTube](https://www.youtube.com/watch?v=wx9roK4AnCo&t=755s) |
 | 2020_Feb_16 | Dynatrace Perform 2020 | Increase quality and agility with performance as a self-serviceRelease Better Software Faster | >[Slides](https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&amp;eventid=2255809&amp;sessionid=1&amp;username=&amp;partnerref=&amp;format=fhvideo1&amp;mobile=false&amp;flashsupportedmobiledevice=false&amp;helpcenter=false&amp;key=F5A15B7190A3E88A8FF276B0A7391BE3&amp;text_language_id=en&amp;playerwidth=1000&amp;playerheight=650&amp;overwritelobby=y&amp;source=GATEWAY-1776389&amp;rId=1776389&amp;rKey=DA9D2E36A16E6B0FDCBE3CF5CA6E427F&amp;oriontokens=eventId-2255809%7CuserId-339806358%7CgatewayId-1776389%7CexperienceId-%7CcontentType-pdf&amp;newConsole=false&amp;nxChe=true&amp;eventuserid=339806358&amp;contenttype=A&amp;mediametricsessionid=299646422&amp;mediametricid=3190464&amp;usercd=339806358&amp;mode=launch) |
@@ -92,6 +91,7 @@ Description | Links |
 # Workshops
 
 | Date | Who | Links |
+| --- | --- | --- |
 | Feb_05_2021 | Dynatrace Perform Modernization | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
 | 2020 | Azure and Dynatrace Virtual| >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
 | Aug_01_2020 | AWS Modernization | >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
