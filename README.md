@@ -45,7 +45,7 @@
 
 | Date | Where | Title | Links |
 | --- | --- | --- | --- |
-| 2021_Mar_30 | CMG | How to transform faster by solving modernization challenges | [CMG](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
+| 2021_Mar_30 | xMatters BriteTalk | Beyond Intelligent Incident Management: AIOps Done Right | >[BrightTalk WebCast](https://www.brighttalk.com/webcast/12363/470224) >[LinkedIn](https://www.linkedin.com/posts/bonjourerin_ep3-beyond-intelligent-incident-management-activity-6775148229441961984-bgOe) | 
 | 2021_Mar_30 | CMG | How to transform faster by solving modernization challenges | [CMG](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
 | 2021_Mar_01 | xMatters Demo Dayz | xMatters + Dynatrace, A Great Customer Experience | [xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) | 
 | 2021_Feb_25 | LaunchDarkly | Accelerating Remediation with Automation | [LinkedIn](https://www.linkedin.com/posts/robjahn_continuousdelivery-innovation-automation-activity-6765320686366932992-sDDf)
