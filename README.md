@@ -12,7 +12,7 @@
 
 | Where | Date | Title |
 | --- | --- | --- |
-| AWS | TBD | AWS Control Tower |
+| AWS | 2021_TBD | AWS Control Tower |
 | Dynatrace Blog | 2020_Dec_10 | [Panel Recap: How is your performance and reliability strategy aligned with your customer experience?](https://www.dynatrace.com/news/blog/panel-recap-how-is-your-performance-and-reliability-strategy-aligned-with-your-customer-experience/) |
 | Dynatrace Blog | 2020_Nov_24 | [Using Dynatrace to master the 5 pillars of the AWS Well-Architected Framework (Part 1)](https://www.dynatrace.com/news/blog/using-dynatrace-to-master-the-5-pillars-of-the-aws-well-architected-framework-part-1/) |
 | Dynatrace Blog | 2020_Nov_19 | [Simplify and standardize Dynatrace integration to Jenkins software delivery pipelines with shared libraries](https://www.dynatrace.com/news/blog/simplify-and-standardize-dynatrace-integration-to-jenkins-software-delivery-pipelines-with-shared-libraries/) |
@@ -92,9 +92,10 @@ Description | Links |
 
 | Date | Who | Links |
 | --- | --- | --- |
-| Feb_05_2021 | Dynatrace Perform Modernization | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
-| 2020 | Azure and Dynatrace Virtual| >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
-| Aug_01_2020 | AWS Modernization | >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
+| 2021 | AWS Immersion Day | >[Dynatrace](https://www.eventbrite.com/e/aws-immersion-day-modernization-and-advanced-observability-with-dynatrace-tickets-136457314501) |
+| 2021 | Dynatrace Perform Modernization - Multiple Virtual sessions | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
+| 2020 | Azure and Dynatrace - Multiple Virtual sessions | >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
+| 2020 | AWS Modernization - Virtual | >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
 | 2020 | RedHat and Dynatrace - Wisconsin | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) |
 | 2019 | Dynatrace Azure Hands-On CI/CD Workshop - Rocherster NY | >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP) |
 | 2019 | Dynatrace and Azure DevOps - Akron Ohio | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) |
