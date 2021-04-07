@@ -8,6 +8,13 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 # Presentations
 
+| Date | Title | Links |
+| --- | --- | --- | 
+| 2021_Mar_30 | [BrightTalk](https://www.brighttalk.com/) series: Inside AIOps: Optimizing Incident Management in 2021<br><br>Beyond Intelligent Incident Management: AIOps Done Right | <img src="images/xmatters_2021_Mar_30.png" width="300"/> <BR> >[BrightTalk WebCast](https://www.brighttalk.com/webcast/12363/470224) >[LinkedIn](https://www.linkedin.com/posts/bonjourerin_ep3-beyond-intelligent-incident-management-activity-6775148229441961984-bgOe)| 
+| 2021_Mar_30 | [CMG](cmg.org) Data Centers and Cloud Infrastructure Virtual Conference<br>How to transform faster by solving modernization challenges | <img src="images/cmg_2021_Mar_30.png" width="300"/> <BR> >[CMG Event Page](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
+| 2021_Mar_01 | [xMatters](https://www.xmatters.com) Demo Dayz Webinar<br>xMatters + Dynatrace, A Great Customer Experience  | <img src="images/xmatters_2021_Mar_01.png" width="300"/> <BR> >[xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6778286296323411968/) | 
+
+
 | Date | Title | | Links |
 | --- | --- | --- | --- |
 | 2021_Mar_30 | [BrightTalk](https://www.brighttalk.com/) series: Inside AIOps: Optimizing Incident Management in 2021<br><br>Beyond Intelligent Incident Management: AIOps Done Right | <img src="images/xmatters_2021_Mar_30.png" width="300"/> | >[BrightTalk WebCast](https://www.brighttalk.com/webcast/12363/470224) >[LinkedIn](https://www.linkedin.com/posts/bonjourerin_ep3-beyond-intelligent-incident-management-activity-6775148229441961984-bgOe) | 
