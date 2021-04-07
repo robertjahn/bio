@@ -35,19 +35,19 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 # Videos
 
-| Date | Title | | Links |
-| --- | --- | --- | --- |
+| Date | Title | Links |
+| --- | --- | --- |
 | 2021 | Dynatrace Partner Cafe series  | <img src="images/partner-cafe.png" width="300"/> <BR> >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
 | 2020_Nov_01 | Dynatrace AWS Partnership Overview with Demo | <img src="images/aws_dt_video.png" width="300"/> <BR> >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
 | 2019_Jul_01 | Introducing Dynatrace solution for Azure Lighthouse | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> <BR> >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Interviews / Panelist
 
-| Date | Title | | Links |
-| --- | --- | --- | --- |
-| Mar_11_2021 | NeoTys & Orasi | Performance Engineering Customer Event| <img src="images/orasi_Mar_11_2021.png" width="300"/>| >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/)
-| Dec_15_2020 | NeoTys & Orasi | Performance Engineering Customer Event| <img src="images/orasi_panel.jpeg" width="300"/> | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)
-| Oct_23_2019 | [Alina Poulain](https://www.linkedin.com/in/alinapoulain/) | DynatraceGo Mexico City | <img src="images/mexico_Oct_23_2019.png" width="300"/>| >[Reg Page](https://www.dynatrace.com/perform-go/latin-america/mexico-city/) >[Video](https://www.facebook.com/alinapoulainw/videos/interview-rob-jahn-noops-dynatrace/449045522674000/) |
+| Date | Title | Links |
+| --- | --- | --- |
+| Mar_11_2021 | NeoTys & Orasi <BR> Performance Engineering Customer Event | <img src="images/orasi_Mar_11_2021.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/)
+| Dec_15_2020 | NeoTys & Orasi <BR> Performance Engineering Customer Event | <img src="images/orasi_panel.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)
+| Oct_23_2019 | [Alina Poulain](https://www.linkedin.com/in/alinapoulain/) <BR> DynatraceGo Mexico City | <img src="images/mexico_Oct_23_2019.png" width="300"/> <BR> >[Reg Page](https://www.dynatrace.com/perform-go/latin-america/mexico-city/) <BR> >[Video](https://www.facebook.com/alinapoulainw/videos/interview-rob-jahn-noops-dynatrace/449045522674000/) |
 
 # Workshops
 
