@@ -33,15 +33,13 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | 2019_May_29 | DevOps Days Toronto <br> Short welcome on mainstage |  <img src="images/2019_May_29.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/ugcPost-6539861615901233152-6fbE) |
 | 2019_May_6 | Microsoft Build 2019 Conference <br> Using AI and automation to build resiliency into Azure DevOps | <img src="images/2019_May_6.png" width="300"/> <BR> >[Video](https://azure.microsoft.com/en-in/resources/videos/build-2019-using-ai-and-automation-to-build-resiliency-into-azure-devops) >[Slides](https://www.slideshare.net/RobJahn/using-ai-and-automation-to-build-resiliency-into-azure-dev-ops) >[LinkedIn](https://www.linkedin.com/posts/dynatrace_microsoft-build-2019-developer-conference-activity-6530074854895468544-1jTA) |
 
-
-
 # Videos
 
 | Date | Title | | Links |
 | --- | --- | --- | --- |
-| 2021 | Dynatrace Partner Cafe series  | <img src="images/partner-cafe.png" width="300"/>| >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
-| 2020_Nov_01 | Dynatrace AWS Partnership Overview with Demo  | <img src="images/aws_dt_video.png" width="300"/>  | >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
-| 2019_Jul_01 | Introducing Dynatrace solution for Azure Lighthouse  | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> | >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
+| 2021 | Dynatrace Partner Cafe series  | <img src="images/partner-cafe.png" width="300"/> <BR> >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
+| 2020_Nov_01 | Dynatrace AWS Partnership Overview with Demo | <img src="images/aws_dt_video.png" width="300"/> <BR> >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
+| 2019_Jul_01 | Introducing Dynatrace solution for Azure Lighthouse | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> <BR> >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Interviews / Panelist
 
@@ -53,18 +51,18 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 # Workshops
 
-| Date | Who | | Links |
-| --- | --- | --- | --- |
-| 2021 | AWS Immersion Day | <img src="images/aws_immersion_day.jpeg" width="300"/> | >[Dynatrace](https://www.eventbrite.com/e/aws-immersion-day-modernization-and-advanced-observability-with-dynatrace-tickets-136457314501) |
-| 2021 | Dynatrace Perform Modernization - Multiple Virtual sessions | <img src="images/perform_2021_hotday.png" width="300"/> | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
-| 2020 | Azure and Dynatrace - Multiple Virtual sessions | <img src="images/Azure_workshop_2020.png" width="300"/> | >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
-| 2020 | AWS Modernization - Virtua | <img src="images/aws_modernize_workshop.png" width="300"/>  | >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
-| 2020 | RedHat and Dynatrace - Wisconsin | <img src="images/Wisconsin_workhop.jpeg" width="300"/>  | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) |
-| 2019 | Dynatrace Azure Hands-On CI/CD Workshop - Rochester NY | <img src="images/Rochester_workshop.png" width="300"/>  | >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP) |
-| 2019 | Dynatrace and Azure DevOps - Akron Ohio | <img src="images/Akron_workshop.jpeg" width="300"/>  | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) |
-| 2019 | Dynatrace and Azure DevOps - Clevland Ohio | <img src="images/Cleveland_workshop.jpeg" width="300"/>  | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509048904774938624-yQHe) |
-| 2019 | Dynatrace and Azure DevOps - Cincinnati Ohio | <img src="images/ohio_workshop.jpeg" width="300"/>  | >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6508794802589491200-OUKH) |
-| 2019 | Unbreakable Continuous Delivery Workshop - MTC Boston | <img src="images/azure_mtc_workshop.jpeg" width="300"/> | >[LinkedIn](https://www.linkedin.com/posts/robjahn_azuredevops-dynatrace-activity-6505917118201028608-pidZ) |
+| Date | Who | Links |
+| --- | --- | --- |
+| 2021 | AWS Immersion Day | <img src="images/aws_immersion_day.jpeg" width="300"/> <BR> >[Dynatrace](https://www.eventbrite.com/e/aws-immersion-day-modernization-and-advanced-observability-with-dynatrace-tickets-136457314501) |
+| 2021 | Dynatrace Perform Modernization - Multiple Virtual sessions | <img src="images/perform_2021_hotday.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
+| 2020 | Azure and Dynatrace - Multiple Virtual sessions | <img src="images/Azure_workshop_2020.png" width="300"/> <BR> >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
+| 2020 | AWS Modernization - Virtua | <img src="images/aws_modernize_workshop.png" width="300"/> <BR> >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
+| 2020 | RedHat and Dynatrace - Wisconsin | <img src="images/Wisconsin_workhop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) |
+| 2019 | Dynatrace Azure Hands-On CI/CD Workshop - Rochester NY | <img src="images/Rochester_workshop.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP) |
+| 2019 | Dynatrace and Azure DevOps - Akron Ohio | <img src="images/Akron_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) |
+| 2019 | Dynatrace and Azure DevOps - Clevland Ohio | <img src="images/Cleveland_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509048904774938624-yQHe) |
+| 2019 | Dynatrace and Azure DevOps - Cincinnati Ohio | <img src="images/ohio_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6508794802589491200-OUKH) |
+| 2019 | Unbreakable Continuous Delivery Workshop - MTC Boston | <img src="images/azure_mtc_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_azuredevops-dynatrace-activity-6505917118201028608-pidZ) |
 
 # Blogs
 
@@ -98,9 +96,10 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 | Description | Links |
 | --- | --- |
-| AWS Modernization workshop | > https://dynatrace.awsworkshop.io/ <br> > https://github.com/aws-samples/aws-modernization-with-dynatrace <br> > https://github.com/dt-demos/modernize-workshop-setup |
-| Misc Dynatrace demos apps and utilties | > https://github.com/dt-demos |
-| Altassian BitBucket Pipes | > https://bitbucket.org/dynatrace <br> > https://bitbucket.org/keptn <br> > https://bitbucket.org/dynatracedemos |
-| Code and scripts to provision and configure cloud infrastructure running a Kubernetes demo app | > https://github.com/dt-kube-demo |
-| Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | > https://github.com/dt-orders/overview |
-| Neotys Performance Testing workshop | > https://github.com/dynatrace-neoload-perf-workshop-infra | 
+| AWS Modernization workshop | > [Code](https://dynatrace.awsworkshop.io) <br> > [Code](https://github.com/dt-demos/modernize-workshop-setup) |
+| Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | > [Code](https://github.com/dt-orders/overview) |
+| Dynatrace Alliances Team workshops | > [Code](https://github.com/dt-alliances-workshopss) |
+| Misc Dynatrace demos and utilities | > [Code](https://github.com/dt-demos) |
+| Altassian BitBucket Pipes | > [Dynatrace Pipe](https://bitbucket.org/dynatrace) <br> > [Keptn Pipe](https://bitbucket.org/keptn) <br> > [Demo App](https://bitbucket.org/dynatracedemos) |
+| Code and scripts to provision and configure cloud infrastructure running a Kubernetes demo app | > [Code](https://github.com/dt-kube-demo) |
+| Neotys Performance Testing workshop | > [Code](https://github.com/dynatrace-neoload-perf-workshop-infra) | 
