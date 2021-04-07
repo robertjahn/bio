@@ -96,9 +96,9 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 # Code
 
-Description | Links |
+| Description | Links |
 | --- | --- |
-| [AWS Modernization workshop](https://dynatrace.awsworkshop.io/) | > https://github.com/aws-samples/aws-modernization-with-dynatrace <br> > https://github.com/dt-demos/modernize-workshop-setup |
+| AWS Modernization workshop | > https://dynatrace.awsworkshop.io/ <br> > https://github.com/aws-samples/aws-modernization-with-dynatrace <br> > https://github.com/dt-demos/modernize-workshop-setup |
 | Misc Dynatrace demos apps and utilties | > https://github.com/dt-demos |
 | Altassian BitBucket Pipes | > https://bitbucket.org/dynatrace <br> > https://bitbucket.org/keptn <br> > https://bitbucket.org/dynatracedemos |
 | Code and scripts to provision and configure cloud infrastructure running a Kubernetes demo app | > https://github.com/dt-kube-demo |
