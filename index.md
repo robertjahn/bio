@@ -1,5 +1,3 @@
-
-# Rob Jahn
 <img src="images/bio.png" width="400"/> 
 
 I am a SRE & DevOps advocate and Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) software based out of Boston, Massachusetts, USA. I support the technology partnerships between Dynatrace and the leading hyperscale Cloud providers and hottest and newest technology companies that have integrations with the Dynatrace software platform. I enable our internal and partner sales teams by leading joint partner technical workshops, developing demonstrations, creating videos, presentating on webinars and writting blogs. 
@@ -100,9 +98,9 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 Description | Links |
 | --- | --- |
-| [AWS Modernization workshop](https://dynatrace.awsworkshop.io/) | > https://github.com/aws-samples/aws-modernization-with-dynatrace <br>> https://github.com/dt-demos/modernize-workshop-setup |
-| Misc Dynatrace demos apps and utilties | https://github.com/dt-demos |
-| Altassian BitBucket Pipes | > https://bitbucket.org/dynatrace  <br>> https://bitbucket.org/keptn <br>> https://bitbucket.org/dynatracedemos |
+| [AWS Modernization workshop](https://dynatrace.awsworkshop.io/) | > https://github.com/aws-samples/aws-modernization-with-dynatrace <br> > https://github.com/dt-demos/modernize-workshop-setup |
+| Misc Dynatrace demos apps and utilties | > https://github.com/dt-demos |
+| Altassian BitBucket Pipes | > https://bitbucket.org/dynatrace <br> > https://bitbucket.org/keptn <br> > https://bitbucket.org/dynatracedemos |
 | Code and scripts to provision and configure cloud infrastructure running a Kubernetes demo app | > https://github.com/dt-kube-demo |
 | Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | > https://github.com/dt-orders/overview |
 | Neotys Performance Testing workshop | > https://github.com/dynatrace-neoload-perf-workshop-infra | 
