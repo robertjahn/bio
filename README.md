@@ -2,17 +2,26 @@
 # Rob Jahn
 <img src="images/bio.png" width="400"/> 
 
-I am a SRE & DevOps advocate and Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) software based out of Boston, Massachusetts, USA. I support the technology partnerships between Dynatrace and the leading hyperscale Cloud providers and hottest and newest technology companies that have integrations with the Dynatrace software platform. I enable our internal and partner sales teams by leading joint partner technical workshops, developing demonstrations, creating videos, presentating on webinars and writting blogs. 
+I am a SRE & DevOps advocate and Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) software based out of Boston, Massachusetts, USA. I support the technology partnerships between Dynatrace and the leading hyperscale Cloud providers and hottest and newest technology companies that have integrations with the Dynatrace software platform. I enable our internal and partner sales teams by leading joint partner technical workshops, developing demonstrations, creating videos, presentations on webinars and writing blogs. 
 
 I am also very active with the Cloud-native application life-cycle orchestration opensource project [Keptn](https://keptn.sh/) that Dynatrace is leading. Prior to Dynatrace, I was a technical services Director advising and building successful software, DevOps, and test automation solutions for 15 years within Professional services companies. [LinkedIn Profile](https://www.linkedin.com/in/robjahn/)
+
+# Videos
+
+| Date | Title | | Links |
+| --- | --- | --- | --- |
+| 2021 | Dynatrace Partner Cafe series - short solution overview and demos of partners like AWS, Azure, Pagerduty, Launchdarkly, Atlassian - all personally produced and edited | <img src="images/partner-cafe.png" width="300"/>| >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
+| 2020_Nov_01 | Dynatrace AWS Partnership Overview with Demo - 10 minute overview and demo shared on the Dynatrace.com website | <img src="images/aws_dt_video.png" width="300"/>  | >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
+| 2019_Jul_01 | Introducing Dynatrace solution for Azure Lighthouse - production studio company recorded in the Dynatrace office and played on the Azure website and at a booth at an Azure conference | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> | >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Presentations
 
 | Date | Title | | Links |
 | --- | --- | --- | --- |
+| 2021_Apr_28 | Service Level Objectives - why are we still talking about this? [Seatle SRE Meetup](https://www.meetup.com/Beyond-Seattle-SRE/events/277122515/) | <img src="images/2021_apr-meetup.png" width="300"/> | >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6793949554283835392/) |
 | 2021_Mar_30 | [BrightTalk](https://www.brighttalk.com/) series: Inside AIOps: Optimizing Incident Management in 2021<br><br>Beyond Intelligent Incident Management: AIOps Done Right | <img src="images/xmatters_2021_Mar_30.png" width="300"/> | >[BrightTalk WebCast](https://www.brighttalk.com/webcast/12363/470224) >[LinkedIn](https://www.linkedin.com/posts/bonjourerin_ep3-beyond-intelligent-incident-management-activity-6775148229441961984-bgOe) | 
 | 2021_Mar_30 | [CMG](cmg.org) Data Centers and Cloud Infrastructure Virtual Conference<br>How to transform faster by solving modernization challenges | <img src="images/cmg_2021_Mar_30.png" width="300"/> | >[CMG Event Page](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
-| 2021_Mar_01 | [xMatters](https://www.xmatters.com) Demo Dayz Webinar<br>xMatters + Dynatrace, A Great Customer Experience  | <img src="images/xmatters_2021_Mar_01.png" width="300"/> | >[xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6778286296323411968/) | 
+| 2021_Mar_01 | [xMatters](https://www.xmatters.com) Demo Dayz Webinar<br>xMatters + Dynatrace, A Great Customer Experience  | <img src="images/xmatters_2021_Mar_01.png" width="300"/> | >[YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6778286296323411968/) | 
 | 2021_Feb_25 | [LaunchDarkly](https://www.LaunchDarkly.com) Webinar<br>Accelerating Remediation with Automation  | <img src="images/ld_2021_Feb_25.png" width="300"/>| >[LinkedIn](https://www.linkedin.com/posts/robjahn_continuousdelivery-innovation-automation-activity-6765320686366932992-sDDf)
 | 2021_Jan_01 | [Dynatrace Perform 2021 Conference](https://www.dynatrace.com/perform)<br>Solving modernization challenges with Microsoft Azure and Dynatrace  | <img src="images/ms_2021_Jan_01.png" width="300"/>| >[LinkedIn](https://www.linkedin.com/posts/robjahn_perform-2021-dynatrace-activity-6762778635523956736-U-Ys) >[Dynatrace](https://www.dynatrace.com/perform-2021) | 
 | 2021_Jan_01 | [Dynatrace Perform 2021 Conference](https://www.dynatrace.com/perform) <br> Application Modernization with AWS: Three Key Considerations | <img src="images/aws_2021_Jan_01.png" width="300"/> | >[LinkedIn](https://www.linkedin.com/posts/robjahn_perform-2021-dynatrace-activity-6762491553807142912-46QT) >[Dynatrace](https://www.dynatrace.com/perform-2021) | 
@@ -34,15 +43,6 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | 2019_May_29 | DevOps Days Toronto <br> Short welcome on mainstage |  <img src="images/2019_May_29.png" width="300"/> | >[LinkedIn](https://www.linkedin.com/posts/ugcPost-6539861615901233152-6fbE) |
 | 2019_May_6 | Microsoft Build 2019 Conference <br> Using AI and automation to build resiliency into Azure DevOps |  <img src="images/2019_May_6.png" width="300"/> | >[Video](https://azure.microsoft.com/en-in/resources/videos/build-2019-using-ai-and-automation-to-build-resiliency-into-azure-devops)  | >[Slides](https://www.slideshare.net/RobJahn/using-ai-and-automation-to-build-resiliency-into-azure-dev-ops) | >[LinkedIn](https://www.linkedin.com/posts/dynatrace_microsoft-build-2019-developer-conference-activity-6530074854895468544-1jTA) |
 
-
-
-# Videos
-
-| Date | Title | | Links |
-| --- | --- | --- | --- |
-| 2021 | Dynatrace Partner Cafe series  | <img src="images/partner-cafe.png" width="300"/>| >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
-| 2020_Nov_01 | Dynatrace AWS Partnership Overview with Demo  | <img src="images/aws_dt_video.png" width="300"/>  | >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
-| 2019_Jul_01 | Introducing Dynatrace solution for Azure Lighthouse  | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> | >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Interviews / Panelist
 
@@ -74,6 +74,9 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 | Where | Date | Title |
 | --- | --- | --- |
+| Atlassian Developer Community Blog | 2020_Jun_17 | [How Dynatrace and Atlassian help transform your operations team to work smarter not harder](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/How-Dynatrace-and-Atlassian-help-transform-your-operations-team/ba-p/1408752) |
+| Atlassian Developer Community Blog | 2020_Apr_7 | [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) |
+| AWS Marketplace | 2020_Jan_31 | [Increasing observability in your AWS Control Tower landing zone with Dynatrace](https://aws.amazon.com/blogs/awsmarketplace/increasing-observability-in-your-aws-control-tower-landing-zone-with-dynatrace/) |
 | LinkedIn Article | 2020_Jan_31 | [2019 at Dynatrace: joining an industry leader](https://www.linkedin.com/pulse/2019-dynatrace-joining-industry-leader-rob-jahn/) |
 | LinkedIn Article | 2019_Mar_1 | [Joining the Dynatrace team – challenge accepted](https://www.linkedin.com/pulse/joining-dynatrace-team-challenge-accepted-rob-jahn/) |
 | Dynatrace Blog | 2020_Dec_10 | [Panel Recap: How is your performance and reliability strategy aligned with your customer experience?](https://www.dynatrace.com/news/blog/panel-recap-how-is-your-performance-and-reliability-strategy-aligned-with-your-customer-experience/) |
@@ -91,9 +94,6 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | Medium | 2019_Jul_17 | [On-boarding your custom application to Keptn— Part 2 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-part-2-of-2-56c6ec0bdcd5) |
 | Medium | 2019_Jul_17 | [On-boarding your custom application to Keptn on GKE— Part 1 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-on-gke-part-1-of-2-e18817205e4a) |
 | Medium | 2019_July_17 | [On-boarding your custom application to Keptn on AKS — Part 1 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-on-aks-part-1-of-2-fc15bb7d2a95) |
-| Atlassian Developer Community Blog | 2020_Jun_17 | [How Dynatrace and Atlassian help transform your operations team to work smarter not harder](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/How-Dynatrace-and-Atlassian-help-transform-your-operations-team/ba-p/1408752) |
-| Atlassian Developer Community Blog | 2020_Apr_7 | [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) |
-
 
 # Code
 
