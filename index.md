@@ -8,16 +8,19 @@ I am also very active with the Cloud-native application life-cycle orchestration
 
 | Title | Links |
 | --- | --- |
-| 2021 <BR> Dynatrace Partner Cafe series - short solution overview and demos of partners like AWS, Azure, Pagerduty, Launchdarkly, Atlassian - all personally produced and edited | <img src="images/partner-cafe.png" width="300"/> <BR> >[Dynatrace youTube playlist](https://www.youtube.com/watch?v=PLbIOd7NkSU&t=1618s) |
+| 2021 <BR> Dynatrace Partner Cafe series - short solution overview and demos of partners like AWS, Azure, Pagerduty, Launchdarkly, Atlassian - all personally produced and edited | <img src="images/pc-wide.png" width="300"/> <BR> >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
+| May 2021 <BR> DevOps with Dynatrace and Atlassian - Demo Den | <img src="images/demo-den.png" width="300"/> <BR> > [YouTube](https://www.youtube.com/watch?v=5fnSyJZJObI)  |
 | 2020 <BR> Dynatrace AWS Partnership Overview with Demo - 10 minute overview and demo shared on the Dynatrace.com website | <img src="images/aws_dt_video.png" width="300"/> <BR> >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
 | 2019 <BR> Introducing Dynatrace solution for Azure Lighthouse - production studio company recorded in the Dynatrace office and played on the Azure website and at a booth at an Azure conference | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> <BR> >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
-# Presentations
+# Presentations & Webinars
 
 | Title | Links |
 | --- | --- | 
-| 2021_May_01 <BR> [SLO Conference](https://www.youtube.com/watch?v=dybGudpsuYo ) - Dynatrace Software Intellegence Platform & Service Level Indicators | <img src="images/2021_apr_sloconf.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-sloconf-sres-activity-6801274023805284353--0H0) |
-| 2021_Apr_28 <BR> [Seatle SRE Meetup](https://www.meetup.com/Beyond-Seattle-SRE/events/277122515/) - Service Level Objectives - why are we still talking about this?  | <img src="images/2021_apr-meetup.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6793949554283835392/) |
+| 2021_Aug_25 <BR> The Fast & the foolproof: Automation & Observability for DevOps | <img src="images/jfrog-aug-2021.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_the-fast-the-foolproof-automation-observability-activity-6833136616953958400-bXZN)|
+| 2021_Aug_19 <BR> Dynatrace and xMatters Make Seamless Efficiency Possible | <img src="images/xmatters_2021_Aug.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/xmatters-inc_dynatrace-and-xmatters-make-seamless-efficiency-activity-6834164437679788032-mEWN) <BR> > [YouTube](https://www.youtube.com/watch?v=U5AbrthQvb8)|
+| 2021_May_01 <BR> [SLO Conference](https://www.youtube.com/watch?v=dybGudpsuYo ) - Dynatrace Software Intellegence Platform & Service Level Indicators | <img src="images/2021_apr_sloconf.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-sloconf-sres-activity-6801274023805284353--0H0) <BR> > [YouTube](https://www.youtube.com/watch?v=dybGudpsuYo) |
+| 2021_Apr_28 <BR> [Seatle SRE Meetup](https://www.meetup.com/Beyond-Seattle-SRE/events/277122515/) - Service Level Objectives - why are we still talking about this?  | <img src="images/2021_apr-meetup.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6793949554283835392/) <BR> > [YouTube](https://www.youtube.com/watch?v=PLbIOd7NkSU&t=1618s)|
 | 2021_Mar_30 <BR> [BrightTalk](https://www.brighttalk.com/) series: Inside AIOps: Optimizing Incident Management in 2021<br><br>Beyond Intelligent Incident Management: AIOps Done Right | <img src="images/xmatters_2021_Mar_30.png" width="300"/> <BR> >[BrightTalk WebCast](https://www.brighttalk.com/webcast/12363/470224) >[LinkedIn](https://www.linkedin.com/posts/bonjourerin_ep3-beyond-intelligent-incident-management-activity-6775148229441961984-bgOe)| 
 | 2021_Mar_30 <BR> [CMG](cmg.org) Data Centers and Cloud Infrastructure Virtual Conference<br>How to transform faster by solving modernization challenges | <img src="images/cmg_2021_Mar_30.png" width="300"/> <BR> >[CMG Event Page](https://www.cmg.org/2021/03/how-to-transform-faster-by-solving-modernization-challenges-rob-jahn-and-rod-kruetzfeld/) | 
 | 2021_Mar_01 <BR> [xMatters](https://www.xmatters.com) Demo Dayz Webinar<br>xMatters + Dynatrace, A Great Customer Experience  | <img src="images/xmatters_2021_Mar_01.png" width="300"/> <BR> >[xMatters YouTube](https://www.youtube.com/watch?v=eHDO4ss8B8A&t=1117s) >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6778286296323411968/) | 
@@ -80,7 +83,8 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | Atlassian Developer Community Blog <BR> 2020_Apr_7 | [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) |
 | LinkedIn Article <BR> 2020_Jan_31 | [2019 at Dynatrace: joining an industry leader](https://www.linkedin.com/pulse/2019-dynatrace-joining-industry-leader-rob-jahn/) |
 | LinkedIn Article <BR> 2019_Mar_1 | [Joining the Dynatrace team – challenge accepted](https://www.linkedin.com/pulse/joining-dynatrace-team-challenge-accepted-rob-jahn/) |
-| Dynatrace Blog <BR> 2020_Jan_31 | [Dynatrace named a launch partner of Amazon ECS Anywhere](https://www.dynatrace.com/news/blog/dynatrace-named-a-launch-partner-of-amazon-ecs-anywhere) |
+| Dynatrace Blog <BR> 2021_Aug_16 | [Part 1: How Dynatrace and GitHub help you deliver better software faster](https://www.dynatrace.com/news/blog/how-dynatrace-and-github-help-you-deliver-better-software-faster) |
+| Dynatrace Blog <BR> 2021_May_27 | [Dynatrace named a launch partner of Amazon ECS Anywhere](https://www.dynatrace.com/news/blog/dynatrace-named-a-launch-partner-of-amazon-ecs-anywhere) |
 | Dynatrace Blog <BR> 2020_Dec_10 | [Panel Recap: How is your performance and reliability strategy aligned with your customer experience?](https://www.dynatrace.com/news/blog/panel-recap-how-is-your-performance-and-reliability-strategy-aligned-with-your-customer-experience/) |
 | Dynatrace Blog <BR> 2020_Nov_24 | [Using Dynatrace to master the 5 pillars of the AWS Well-Architected Framework (Part 1)](https://www.dynatrace.com/news/blog/using-dynatrace-to-master-the-5-pillars-of-the-aws-well-architected-framework-part-1/) |
 | Dynatrace Blog <BR> 2020_Nov_19 | [Simplify and standardize Dynatrace integration to Jenkins software delivery pipelines with shared libraries](https://www.dynatrace.com/news/blog/simplify-and-standardize-dynatrace-integration-to-jenkins-software-delivery-pipelines-with-shared-libraries/) |
@@ -97,14 +101,20 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | Medium <BR> 2019_Jul_17 | [On-boarding your custom application to Keptn on GKE— Part 1 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-on-gke-part-1-of-2-e18817205e4a) |
 | Medium <BR> 2019_July_17 | [On-boarding your custom application to Keptn on AKS — Part 1 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-on-aks-part-1-of-2-fc15bb7d2a95) |
 
-# Code
+# Workshops and Quickstarts
 
 | Description | Links |
 | --- | --- |
-| AWS Modernization workshop | > [Code](https://dynatrace.awsworkshop.io) <br> > [Code](https://github.com/dt-demos/modernize-workshop-setup) |
+| Atlassian team 2021 - Automatically create a Jira Software issue from a detected problem in Dynatrace | > [Guide](https://www.atlassian.com/devops/observability-tutorials/jira-dynatrace-issue) |
+| AWS Modernization workshop | > [Guide](https://dynatrace.awsworkshop.io) <br> > [Code](https://github.com/dt-demos/modernize-workshop-setup) |
+| Dynatrace Alliances Team workshops | > [Guide](https://github.com/dt-alliances-workshops) |
+
+# Code
+| Description | Links |
+| --- | --- |
 | Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | > [Code](https://github.com/dt-orders/overview) |
-| Dynatrace Alliances Team workshops | > [Code](https://github.com/dt-alliances-workshopss) |
 | Misc Dynatrace demos and utilities | > [Code](https://github.com/dt-demos) |
-| Altassian BitBucket Pipes | > [Dynatrace Pipe](https://bitbucket.org/dynatrace) <br> > [Keptn Pipe](https://bitbucket.org/keptn) <br> > [Demo App](https://bitbucket.org/dynatracedemos) |
+| Dynatrace Alliances Team workshops | > [Code](https://github.com/dt-alliances-workshops) |
 | Code and scripts to provision and configure cloud infrastructure running a Kubernetes demo app | > [Code](https://github.com/dt-kube-demo) |
+| Altassian BitBucket Pipes | > [Dynatrace Code](https://bitbucket.org/dynatrace) <br> > [Keptn Code](https://bitbucket.org/keptn) <br> > [Demo App](https://bitbucket.org/dynatracedemos) |
 | Neotys Performance Testing workshop | > [Code](https://github.com/dynatrace-neoload-perf-workshop-infra) | 
