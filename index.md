@@ -1,6 +1,6 @@
 <img src="images/bio.png" width="400"/> 
 
-I am a SRE & DevOps advocate and Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) software based out of Boston, Massachusetts, USA. I support the technology partnerships between Dynatrace and the leading hyperscale Cloud providers and hottest and newest technology companies that have integrations with the Dynatrace software platform. I enable our internal and partner sales teams by leading joint partner technical workshops, developing demonstrations, creating videos, presenting on webinars and writing blogs. 
+I am a SRE & DevOps partner advocate and Sr. Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) software based out of Boston, Massachusetts, USA. I support the technology partnerships between Dynatrace and the leading hyperscale Cloud providers and hottest and newest technology companies that have integrations with the Dynatrace software platform. I enable our internal and partner sales teams by leading joint partner technical workshops, developing demonstrations, creating videos, presenting on webinars and writing blogs. 
 
 I am also very active with the Cloud-native application life-cycle orchestration open source project [Keptn](https://keptn.sh/) that Dynatrace is leading. Prior to Dynatrace, I was a technical services Director advising and building successful software, DevOps, and test automation solutions for 15 years within Professional services companies. [LinkedIn Profile](https://www.linkedin.com/in/robjahn/)
 
@@ -9,14 +9,15 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | Title | Links |
 | --- | --- |
 | 2021 <BR> Dynatrace Partner Cafe series - short solution overview and demos of partners like AWS, Azure, Pagerduty, Launchdarkly, Atlassian - all personally produced and edited | <img src="images/pc-wide.png" width="300"/> <BR> >[Dynatrace youTube playlist](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) |
-| May 2021 <BR> DevOps with Dynatrace and Atlassian - Demo Den | <img src="images/demo-den.png" width="300"/> <BR> > [YouTube](https://www.youtube.com/watch?v=5fnSyJZJObI)  |
-| 2020 <BR> Dynatrace AWS Partnership Overview with Demo - 10 minute overview and demo shared on the Dynatrace.com website | <img src="images/aws_dt_video.png" width="300"/> <BR> >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
-| 2019 <BR> Introducing Dynatrace solution for Azure Lighthouse - production studio company recorded in the Dynatrace office and played on the Azure website and at a booth at an Azure conference | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> <BR> >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Presentations & Webinars
 
 | Title | Links |
 | --- | --- | 
+| 2021_Dev_17 <BR> AWS re:Invent 2021 - Cloud-native hyperscale with Dynatrace and AWS Lambda | <img src="images/2021_reinvent.png" width="300"/> <BR> > [YouTube](https://www.youtube.com/watch?v=jNT18U0-q5k&t=1s) |
+| 2021_Nov_22 <BR>Partner Integration - Dynatrace with PagerDuty and Rundeck | <img src="images/2021_pd_twitch.png" width="300"/> <BR> > [LinkedIn](https://www.linkedin.com/posts/robjahn_come-see-how-dynatrace-integrates-with-pagerduty-activity-6872999572197695488-viSZ) <BR> > [YouTube](https://www.youtube.com/watch?v=Q9JVilqmmkU&t=6s) |
+| 2021_Nov_19 <BR> How to build a resilient incident managment plan | <img src="images/2021_xmatters.png" width="300"/> <BR> > [LinkedIn](https://www.linkedin.com/posts/robjahn_digitalservices-activity-6866940035980177409-nd2x) <BR> > [OnDemand webinar](https://event.on24.com/wcc/r/3479546/0720998BF35EAC9B04585D53ED227E66?partnerref=xMatters) |
+| 2021_Nov_09 <BR> DevOps Enterprise Summit - VendorDome: Beyond the Buzzwords: Going Deep on DevOps with Dynatrace & LaunchDarkly | <img src="images/2021_devops_summit_ld.png" width="300"/> <BR> > [On Demand Webinar](https://videos.itrevolution.com/watch/625781052) <BR> > [Event Page](https://devopsenterprisesummitus2021.sched.com/event/lxBG) |
 | 2021_Aug_25 <BR> The Fast & the foolproof: Automation & Observability for DevOps | <img src="images/jfrog-aug-2021.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_the-fast-the-foolproof-automation-observability-activity-6833136616953958400-bXZN) <br> >[Video](https://jfrog.com/webinar/the-fast-the-foolproof-automation-observability-for-devops/) |
 | 2021_Aug_19 <BR> Dynatrace and xMatters Make Seamless Efficiency Possible | <img src="images/xmatters_2021_Aug.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/xmatters-inc_dynatrace-and-xmatters-make-seamless-efficiency-activity-6834164437679788032-mEWN) <BR> > [YouTube](https://www.youtube.com/watch?v=U5AbrthQvb8)|
 | 2021_May_01 <BR> [SLO Conference](https://www.youtube.com/watch?v=dybGudpsuYo ) - Dynatrace Software Intellegence Platform & Service Level Indicators | <img src="images/2021_apr_sloconf.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-sloconf-sres-activity-6801274023805284353--0H0) <BR> > [YouTube](https://www.youtube.com/watch?v=dybGudpsuYo) |
@@ -45,7 +46,9 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | 2019_July_30 <BR> DevOps &amp; Drinks Meetup Group – NYC <br> Shipping Code like a keptn: Automating your Kubernetes Delivery Pipelines so you can focus on code |  <img src="images/2019_July_30.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/activity-6562034936981835776-k2V0) >[Reg Page](https://www.meetup.com/DevOps-Docker-and-Beers/events/262650862/) |
 | 2019_May_29 <BR> DevOps Days Toronto <br> Short welcome on mainstage |  <img src="images/2019_May_29.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/ugcPost-6539861615901233152-6fbE) |
 | 2019_May_6 <BR> Microsoft Build 2019 Conference <br> Using AI and automation to build resiliency into Azure DevOps | <img src="images/2019_May_6.png" width="300"/> <BR> >[Video](https://azure.microsoft.com/en-in/resources/videos/build-2019-using-ai-and-automation-to-build-resiliency-into-azure-devops) >[Slides](https://www.slideshare.net/RobJahn/using-ai-and-automation-to-build-resiliency-into-azure-dev-ops) >[LinkedIn](https://www.linkedin.com/posts/dynatrace_microsoft-build-2019-developer-conference-activity-6530074854895468544-1jTA) |
-
+| May 2021 <BR> DevOps with Dynatrace and Atlassian - Demo Den | <img src="images/demo-den.png" width="300"/> <BR> > [YouTube](https://www.youtube.com/watch?v=5fnSyJZJObI)  |
+| 2020 <BR> Dynatrace AWS Partnership Overview with Demo - 10 minute overview and demo shared on the Dynatrace.com website | <img src="images/aws_dt_video.png" width="300"/> <BR> >[Dynatrace Website](https://www.dynatrace.com/technologies/aws-monitoring) |
+| 2019 <BR> Introducing Dynatrace solution for Azure Lighthouse - production studio company recorded in the Dynatrace office and played on the Azure website and at a booth at an Azure conference | <img src="images/azure_2019_Jul_01.jpeg" width="300"/> <BR> >[Azure Website](https://azure.microsoft.com/en-us/services/azure-lighthouse/#features) |
 
 # Interviews / Panelist
 
@@ -61,14 +64,26 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | --- | --- |
 | 2021 <BR> AWS Immersion Days - Multiple Virtual sessions | <img src="images/aws_immersion_day.jpeg" width="300"/> <BR> >[Dynatrace](https://www.eventbrite.com/e/aws-immersion-day-modernization-and-advanced-observability-with-dynatrace-tickets-136457314501) |
 | 2021 <BR> Dynatrace Perform Modernization - Multiple Virtual sessions | <img src="images/perform_2021_hotday.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) |
+| 2021 <BR> Dynatrace Perform 2021 Conference Hands On training | <img src="images/perform_2021_social.png" width="300"/> |
 | 2020 <BR> Azure and Dynatrace - Multiple Virtual sessions | <img src="images/Azure_workshop_2020.png" width="300"/> <BR> >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) |
 | 2020 <BR> AWS Modernization - Virtual | <img src="images/aws_modernize_workshop.png" width="300"/> <BR> >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) |
 | 2020 <BR> RedHat and Dynatrace - Wisconsin | <img src="images/Wisconsin_workhop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) |
+| 2020 <BR> Dynatrace Perform 2020 Conference Hands On training | <img src="images/perform_2020_hotday.png" width="300"/> |
 | 2019 <BR> Dynatrace Azure Hands-On CI/CD Workshop - Rochester NY | <img src="images/Rochester_workshop.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP) |
 | 2019 <BR> Dynatrace and Azure DevOps - Akron Ohio | <img src="images/Akron_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) |
 | 2019 <BR> Dynatrace and Azure DevOps - Clevland Ohio | <img src="images/Cleveland_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509048904774938624-yQHe) |
 | 2019 <BR> Dynatrace and Azure DevOps - Cincinnati Ohio | <img src="images/ohio_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6508794802589491200-OUKH) |
 | 2019 <BR> Unbreakable Continuous Delivery Workshop - MTC Boston | <img src="images/azure_mtc_workshop.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_azuredevops-dynatrace-activity-6505917118201028608-pidZ) |
+
+# Quickstart Guides
+
+| Description | Links |
+| --- | --- |
+| 2021 <BR> Dynatrace Cloud Automation Quick Start | > [Guide](https://github.com/dt-alliances/cloud-automation-quickstart) |
+| 2021 <BR> Jfrog Pipelines - Dynatrace integration Reference Design | > [Guide](https://www.jfrog.com/confluence/display/JFROG/Pipelines-Dynatrace+Reference+Design) |
+| 2021 <BR> Atlassian team 2021 - Automatically create a Jira Software issue from a detected problem in Dynatrace | > [Guide](https://www.atlassian.com/devops/observability-tutorials/jira-dynatrace-issue) |
+| 2020 <BR>AWS Modernization workshop | > [Guide](https://dynatrace.awsworkshop.io) <br> > [Code](https://github.com/dt-demos/modernize-workshop-setup) |
+| 2021 <BR> Dynatrace Alliances Team workshops | > [Guide](https://github.com/dt-alliances-workshops) |
 
 # Blogs
 
@@ -83,6 +98,9 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | Atlassian Developer Community Blog <BR> 2020_Apr_7 | [Using AI and automation to build resiliency into Bitbucket pipelines](https://community.atlassian.com/t5/Marketplace-Apps-Integrations/Using-AI-and-automation-to-build-resiliency-into-Bitbucket/ba-p/1343165) |
 | LinkedIn Article <BR> 2020_Jan_31 | [2019 at Dynatrace: joining an industry leader](https://www.linkedin.com/pulse/2019-dynatrace-joining-industry-leader-rob-jahn/) |
 | LinkedIn Article <BR> 2019_Mar_1 | [Joining the Dynatrace team – challenge accepted](https://www.linkedin.com/pulse/joining-dynatrace-team-challenge-accepted-rob-jahn/) |
+| Dynatrace Blog <BR> 2021_Nov_29 | [Dynatrace Support for AWS Lambda Functions Powered by x86 and AWS Graviton2](https://www.dynatrace.com/news/blog/support-for-aws-lambda-functions-powered-by-aws-graviton2-processor/) |
+| Dynatrace Blog <BR> 2021_Sep_29 | [Part 2: How Dynatrace and GitHub help you deliver better software faster](https://www.dynatrace.com/news/blog/how-dynatrace-and-github-help-you-deliver-better-software-faster-part-2/) |
+| Dynatrace Blog <BR> 2021_Sep_08 | [Dynatrace named a new Amazon EKS Anywhere partner](https://www.dynatrace.com/news/blog/dynatrace-a-new-amazon-eks-anywhere-partner/) |
 | Dynatrace Blog <BR> 2021_Aug_16 | [Part 1: How Dynatrace and GitHub help you deliver better software faster](https://www.dynatrace.com/news/blog/how-dynatrace-and-github-help-you-deliver-better-software-faster) |
 | Dynatrace Blog <BR> 2021_May_27 | [Dynatrace named a launch partner of Amazon ECS Anywhere](https://www.dynatrace.com/news/blog/dynatrace-named-a-launch-partner-of-amazon-ecs-anywhere) |
 | Dynatrace Blog <BR> 2020_Dec_10 | [Panel Recap: How is your performance and reliability strategy aligned with your customer experience?](https://www.dynatrace.com/news/blog/panel-recap-how-is-your-performance-and-reliability-strategy-aligned-with-your-customer-experience/) |
@@ -101,15 +119,8 @@ I am also very active with the Cloud-native application life-cycle orchestration
 | Medium <BR> 2019_Jul_17 | [On-boarding your custom application to Keptn on GKE— Part 1 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-on-gke-part-1-of-2-e18817205e4a) |
 | Medium <BR> 2019_July_17 | [On-boarding your custom application to Keptn on AKS — Part 1 of 2](https://medium.com/keptn/on-boarding-your-custom-application-to-keptn-on-aks-part-1-of-2-fc15bb7d2a95) |
 
-# Workshops and Quickstarts
-
-| Description | Links |
-| --- | --- |
-| Atlassian team 2021 - Automatically create a Jira Software issue from a detected problem in Dynatrace | > [Guide](https://www.atlassian.com/devops/observability-tutorials/jira-dynatrace-issue) |
-| AWS Modernization workshop | > [Guide](https://dynatrace.awsworkshop.io) <br> > [Code](https://github.com/dt-demos/modernize-workshop-setup) |
-| Dynatrace Alliances Team workshops | > [Guide](https://github.com/dt-alliances-workshops) |
-
 # Code
+
 | Description | Links |
 | --- | --- |
 | Sample ecommerce application and scripts to provision kubernetes cluster and setup keptn as onboard app into keptn | > [Code](https://github.com/dt-orders/overview) |
