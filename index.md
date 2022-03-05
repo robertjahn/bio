@@ -17,7 +17,7 @@ Prior to Dynatrace, I was a technical services Director advising and building su
 
 # Presentations & Webinars
 
-| Topic | Title | Links |
+| Topic | Description |  |
 | --- | --- | --- | 
 | CloudOps | Dynatrace Perform 2022 - Build a proactive approach to cloud operations for increased resilience - 2022_Feb_01<BR> > [Dynatrace Perform site](https://www.dynatrace.com/perform) | <img src="images/2022-perform-cloud.png" width="300"/> |
 |  |Partner Integration - Dynatrace with PagerDuty and Rundeck - 2021_Nov_22<BR> > [LinkedIn](https://www.linkedin.com/posts/robjahn_come-see-how-dynatrace-integrates-with-pagerduty-activity-6872999572197695488-viSZ) <BR> > [YouTube](https://www.youtube.com/watch?v=Q9JVilqmmkU&t=6s) | <img src="images/2021_pd_twitch.png" width="300"/> |
