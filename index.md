@@ -61,25 +61,24 @@ Prior to Dynatrace, I was a technical services Director advising and building su
 
 # Workshops
 
-| Title | Links |
+| Description |  |
 | --- | --- |
-| 2021 <BR> AWS Immersion Days - Multiple Virtual sessions <BR> >[Dynatrace](https://www.eventbrite.com/e/aws-immersion-day-modernization-and-advanced-observability-with-dynatrace-tickets-136457314501) | <img src="images/aws_immersion_day.jpeg" width="300"/>  |
-| 2021 <BR> Dynatrace Perform Modernization - Multiple Virtual sessions <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) | <img src="images/perform_2021_hotday.png" width="300"/>  |
-| 2021 <BR> Dynatrace Perform 2021 Conference Hands On training | <img src="images/perform_2021_social.png" width="300"/> |
-| 2020 <BR> Azure and Dynatrace - Multiple Virtual sessions <BR> >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) | <img src="images/Azure_workshop_2020.png" width="300"/>  |
-| 2020 <BR> AWS Modernization - Virtual <BR> >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) | <img src="images/aws_modernize_workshop.png" width="300"/>  |
-| 2020 <BR> RedHat and Dynatrace - Wisconsin [LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) | <img src="images/Wisconsin_workhop.jpeg" width="300"/> <BR> > |
-| 2020 <BR> Dynatrace Perform 2020 Conference Hands On training | <img src="images/perform_2020_hotday.png" width="300"/> |
+|  AWS Immersion Days - Multiple Virtual sessions <BR> >[Dynatrace](https://www.eventbrite.com/e/aws-immersion-day-modernization-and-advanced-observability-with-dynatrace-tickets-136457314501) | <img src="images/aws_immersion_day.jpeg" width="300"/>  |
+| Azure and Dynatrace - Multiple Virtual sessions <BR> >[Dynatrace](https://info.dynatrace.com/noram_upper_midwest_wc_microsoft_virtual_workshop_14705_registration.html) | <img src="images/Azure_workshop_2020.png" width="300"/>  |
+| Dynatrace Perform 2021 Conference Hands On training <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-activity-6759116072626003968-ocUV) | <img src="images/perform_2021_hotday.png" width="300"/>  |
+| AWS Modernization - Virtual 2020<BR> >[AWS](https://pages.awscloud.com/GLOBAL-partner-OE-MAD-Virtual-Workshop-Series-2020-reg-event.html) >[LinkedIn](https://www.linkedin.com/posts/robjahn_amazon-web-services-aws-cloud-computing-activity-6704778215082221569-Kw2z) | <img src="images/aws_modernize_workshop.png" width="300"/>  |
+| RedHat and Dynatrace - Wisconsin <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-redhat-openshift-activity-6600480067686625280-04QL) | <img src="images/Wisconsin_workhop.jpeg" width="300"/>  |
+| Dynatrace Perform 2020 Conference Hands On training | <img src="images/perform_2020_hotday.png" width="300"/> |
 | Neotys Performance Testing workshop <BR> > [Code](https://github.com/dynatrace-neoload-perf-workshop-infra) | <img src="images/workshop_neoload.png" width="300"/> |
-| 2019 <BR> Dynatrace Azure Hands-On CI/CD Workshop - Rochester NY <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP)| <img src="images/Rochester_workshop.png" width="300"/>  |
-| 2019 <BR> Dynatrace and Azure DevOps - Akron Ohio <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) | <img src="images/Akron_workshop.jpeg" width="300"/>  |
-| 2019 <BR> Dynatrace and Azure DevOps - Clevland Ohio <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509048904774938624-yQHe)| <img src="images/Cleveland_workshop.jpeg" width="300"/>  |
-| 2019 <BR> Dynatrace and Azure DevOps - Cincinnati Ohio <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6508794802589491200-OUKH)| <img src="images/ohio_workshop.jpeg" width="300"/>  |
-| 2019 <BR> Unbreakable Continuous Delivery Workshop - MTC Boston <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_azuredevops-dynatrace-activity-6505917118201028608-pidZ)| <img src="images/azure_mtc_workshop.jpeg" width="300"/>  |
+| Dynatrace Azure Hands-On CI/CD Workshop - Rochester NY 2019 <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_microsoft-activity-6534827866046160896-0dpP)| <img src="images/Rochester_workshop.png" width="300"/>  |
+| Dynatrace and Azure DevOps - Akron Ohio 2019<BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509461180191510529-_fTU) | <img src="images/Akron_workshop.jpeg" width="300"/>  |
+| Dynatrace and Azure DevOps - Clevland Ohio 2019<BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6509048904774938624-yQHe)| <img src="images/Cleveland_workshop.jpeg" width="300"/>  |
+| Dynatrace and Azure DevOps - Cincinnati Ohio 2019<BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-azure-activity-6508794802589491200-OUKH)| <img src="images/ohio_workshop.jpeg" width="300"/>  |
+| Unbreakable Continuous Delivery Workshop - MTC Boston 2019<BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_azuredevops-dynatrace-activity-6505917118201028608-pidZ)| <img src="images/azure_mtc_workshop.jpeg" width="300"/>  |
 
 # Quickstart Guides
 
-| Description | Links |
+| Description | |
 | --- | --- |
 | Dynatrace Alliances Team workshops <BR> > [Code](https://github.com/dt-alliances-workshops) <BR> > [Guide](https://learn.alliances.dynatracelabs.com/) | <img src="images/guide_dt.png" width="300"/> |
 | Dynatrace Cloud Automation Quick Start <BR>> [Guide](https://github.com/dt-alliances/cloud-automation-quickstart)  | <img src="images/guide_ca.png" width="300"/> |
@@ -132,8 +131,8 @@ Prior to Dynatrace, I was a technical services Director advising and building su
 
 # Interviews / Panelist
 
-| Title | Links |
+| Description | |
 | --- | --- |
-| Mar_11_2021 <BR> NeoTys & Orasi <BR> Performance Engineering Customer Event | <img src="images/orasi_Mar_11_2021.png" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/)
-| Dec_15_2020 <BR> NeoTys & Orasi <BR> Performance Engineering Customer Event | <img src="images/orasi_panel.jpeg" width="300"/> <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)
-| Oct_23_2019 <BR> [Alina Poulain](https://www.linkedin.com/in/alinapoulain/) <BR> DynatraceGo Mexico City | <img src="images/mexico_Oct_23_2019.png" width="300"/> <BR> >[Reg Page](https://www.dynatrace.com/perform-go/latin-america/mexico-city/) <BR> >[Video](https://www.facebook.com/alinapoulainw/videos/interview-rob-jahn-noops-dynatrace/449045522674000/) |
+| NeoTys & Orasi <BR> Performance Engineering Customer Event - Mar_11_2021 <BR> >[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6777953473532063744/) | <img src="images/orasi_Mar_11_2021.png" width="300"/> |
+|  NeoTys & Orasi <BR> Performance Engineering Customer Event - Dec_15_2020 <BR> >[LinkedIn](https://www.linkedin.com/posts/robjahn_dynatrace-userexperience-activity-6743184161898594304-JH8Y)| <img src="images/orasi_panel.jpeg" width="300"/> |
+| DynatraceGo Mexico City <BR> Interview with [Alina Poulain](https://www.linkedin.com/in/alinapoulain/) - Oct_23_2019 <BR> >[Reg Page](https://www.dynatrace.com/perform-go/latin-america/mexico-city/) <BR> >[Video](https://www.facebook.com/alinapoulainw/videos/interview-rob-jahn-noops-dynatrace/449045522674000/) | <img src="images/mexico_Oct_23_2019.png" width="300" />  |
