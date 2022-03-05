@@ -13,16 +13,16 @@ Prior to Dynatrace, I was a technical services Director advising and building su
 * [Dynatrace Partner Cafe series](https://www.youtube.com/playlist?list=PLqt2rd0eew1bfhreyYsVkLOy-DQTECycL) - short solution overview and demos of partners like AWS, Azure, Pagerduty, Launchdarkly, Atlassian - all personally produced and edited <BR> <img src="images/partner-cafe.png" width="300"/> 
 <BR>
 
-* Active with the Cloud-native application life-cycle orchestration open source project [Keptn](https://keptn.sh) that Dynatrace is leading
+* Active with the Cloud-native application life-cycle orchestration [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io) open source project [Keptn](https://keptn.sh) that Dynatrace is leading
 
 # Presentations & Webinars
 
 | Title | Links |
 | --- | --- | 
 | 2022_Feb_01 <BR> DevOps Toronto February - GitOps & SLO-Driven Automation for faster and better releases <BR> > [YouTube](https://www.youtube.com/watch?v=ShrolCUrC2U) | <img src="images/2022_Feb_toronto_meetup.png" width="500"/>  |
-| 2022_Feb_01 <BR> Dynatrace Perform 2022 - Achieve risk-free delivery by automating zero downtime release strategies | <img src="images/2022-perform-delivery.png" width="300"/> |
-| 2022_Feb_01 <BR> Dynatrace Perform 2022 - Build a proactive approach to cloud operations for increased resilience | <img src="images/2022-perform-cloud.png" width="300"/> |
-| 2022_Feb_01 <BR> Dynatrace Perform 2022 - Cloud-native hyperscale with Dynatrace & AWS Lambda  | <img src="images/2022-perform-aws.png" width="300"/> |
+| 2022_Feb_01 <BR> Dynatrace Perform 2022 - Achieve risk-free delivery by automating zero downtime release strategies <BR> > [Dynatrace Perform site](https://www.dynatrace.com/perform)| <img src="images/2022-perform-delivery.png" width="300"/> |
+| 2022_Feb_01 <BR> Dynatrace Perform 2022 - Build a proactive approach to cloud operations for increased resilience <BR> > [Dynatrace Perform site](https://www.dynatrace.com/perform) | <img src="images/2022-perform-cloud.png" width="300"/> |
+| 2022_Feb_01 <BR> Dynatrace Perform 2022 - Cloud-native hyperscale with Dynatrace & AWS Lambda <BR> > [Dynatrace Perform site](https://www.dynatrace.com/perform) | <img src="images/2022-perform-aws.png" width="300"/> |
 | 2021_Dec_17 <BR> AWS re:Invent 2021 - Cloud-native hyperscale with Dynatrace and AWS Lambda <BR> > [YouTube](https://www.youtube.com/watch?v=jNT18U0-q5k&t=1s) | <img src="images/2021_reinvent.png" width="300"/> |
 | 2021_Nov_22 <BR>Partner Integration - Dynatrace with PagerDuty and Rundeck <BR> > [LinkedIn](https://www.linkedin.com/posts/robjahn_come-see-how-dynatrace-integrates-with-pagerduty-activity-6872999572197695488-viSZ) <BR> > [YouTube](https://www.youtube.com/watch?v=Q9JVilqmmkU&t=6s) | <img src="images/2021_pd_twitch.png" width="300"/> |
 | 2021_Nov_19 <BR> How to build a resilient incident managment plan <BR> > [LinkedIn](https://www.linkedin.com/posts/robjahn_digitalservices-activity-6866940035980177409-nd2x) <BR> > [OnDemand webinar](https://event.on24.com/wcc/r/3479546/0720998BF35EAC9B04585D53ED227E66?partnerref=xMatters) | <img src="images/2021_xmatters.png" width="300"/>  |
