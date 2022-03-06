@@ -1,12 +1,10 @@
 ---
 ---
 
-{
-    $section-headings-color: rgba(9,56,121,1) !default;
-    $body-text-color: #606c71 !default;
-    $body-link-color: #1e6bb8 !default;
-    $blockquote-text-color: #819198 !default;
-}
+$section-headings-color: rgba(9,56,121,1) !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
 
 @import "{{ site.theme }}";
 
