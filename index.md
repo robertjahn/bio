@@ -98,7 +98,6 @@ Prior to Dynatrace, I was a technical services Director advising and building su
 # Blogs
 
 * [Dynatrace blog](https://www.dynatrace.com/news/blog/author/rob-jahn/)
-* [Medium](https://medium.com/@robjahn)
 * [Microsoft Open Source Blog](https://cloudblogs.microsoft.com/opensource/author/rob-jahn/)
 
 | AWS                                                                                                                                                                                                                                                                            |
