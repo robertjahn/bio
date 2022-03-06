@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-$section-headings-color: #0e57be !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
-
 /* https://cssgradient.io/ */
 .page-header {
     background: rgb(2,0,36);
