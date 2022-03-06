@@ -1,11 +1,8 @@
 ---
 ---
 
-/* overrides to cayman theme */
+/* overrides to cayman theme - https://github.com/pages-themes/cayman/blob/master/_sass/variables.scss */
 $section-headings-color: #ed8012 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
 
 @import "{{ site.theme }}";
 
