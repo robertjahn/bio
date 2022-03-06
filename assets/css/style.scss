@@ -4,7 +4,5 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    color: blue;
-    background-color: blue;
-    background-image: "images/bio.png";
+    background-image: linear-gradient(120deg, red, purple);
 }
