@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background-image: linear-gradient(120deg, red, purple);
+    background-image: url("images/bio.png");
     padding: 2rem 2rem;
 }
