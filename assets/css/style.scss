@@ -19,11 +19,20 @@ $section-headings-color: #ed8012 !default;
 }
 
 .my-project-name {
-    text-align: left;
+    text-align: center;
     color: white;
+    font-weight: 700;
+    font-size: 4em;
 }
 
 .my-project-tagline {
-    text-align: left;
+    text-align: center;
     color: white;
+    font-weight: 400;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.my-table {
+    width: 100%;
 }
