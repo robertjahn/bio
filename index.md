@@ -1,6 +1,4 @@
-<img src="images/bio.png" width="400"/> 
-
-I am a SRE & DevOps advocate and Sr. Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) software based out of Boston, Massachusetts, USA. At Dynatrace, I support technical partnerships with leading cloud providers and DevSecOps solutions. 
+I am Sr. Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) and I support technical partnerships with leading cloud providers and DevSecOps solutions. 
 
 I am very active with open source projects and develop technical workshops, videos, industry presentations, and blogs. I am a passionate technology evangelist, helping companies get the best integrations and enablement for flawless and secure digital interactions with Dynatrace.
 
