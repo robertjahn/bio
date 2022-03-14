@@ -19,9 +19,9 @@
     <tr style="padding-bottom: 0px;">
     <td>
       <h1 class="my-project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="my-project-tagline">&nbsp;&nbsp;&nbsp;&nbsp;{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="my-project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </td>
-    <td valign="bottom">
+    <td valign="bottom" style="padding: 5px;">
       <img src="images/headshot.png" style="max-width: 100%;"/>
     </td>
     </tr></table>
