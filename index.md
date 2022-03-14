@@ -2,9 +2,9 @@ I am Sr. Technical Partner Manager at [Dynatrace](https://www.dynatrace.com) and
 
 I am very active with open source projects and develop technical workshops, videos, industry presentations, and blogs. I am a passionate technology evangelist, helping companies get the best integrations and enablement for flawless and secure digital interactions with Dynatrace.
 
-Prior to Dynatrace, I was a technical services Director advising and building successful software, DevOps, and test automation solutions for 15 years within Professional services companies. [LinkedIn Profile](https://www.linkedin.com/in/robjahn/)
+Prior to Dynatrace, I was a technical services Director advising and building successful software, DevOps, and test automation solutions for 15 years within Professional services companies. 
 
-# Misc
+* [My LinkedIn Profile](https://www.linkedin.com/in/robjahn/)
 
 * [2022 cohort of Continous Delivery Global Community Ambassadors](https://cd.foundation/ambassadors/) 
 
