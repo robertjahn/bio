@@ -14,22 +14,29 @@ $section-headings-color: #ed8012 !default;
     height: 175px;
 }
 
+td, th {
+    text-align: left;
+    padding: 30px;
+    padding-bottom: 0px;
+    color: white;
+}
+
 .my-page-header {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,56,121,1) 42%, rgba(0,212,255,1) 100%);
 }
 
 .my-project-name {
-    text-align: center;
+    text-align: right;
     color: white;
     font-weight: 700;
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .my-project-tagline {
-    text-align: center;
+    text-align: right;
     color: white;
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1em;
     font-style: italic;
 }
 
