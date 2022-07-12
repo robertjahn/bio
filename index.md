@@ -16,6 +16,8 @@ Prior to Dynatrace, I was a technical services Director advising and building su
 
 * Active with the Cloud-native application life-cycle orchestration [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io) open source project [Keptn](https://keptn.sh) that Dynatrace is leading
 
+    * Having fun too with [Meet the Keptn Crew interviews](https://www.youtube.com/playlist?list=PL6i801Rjt9DaeinxkC-t0hNQKScmNuyha)
+
 # Presentations & Webinars
 
 | CLOUD and AIOPS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                             |
