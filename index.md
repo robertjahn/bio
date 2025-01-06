@@ -1,8 +1,8 @@
 I am a Principal Solutions Architect at [Dynatrace](https://www.dynatrace.com) supporting Technology Alliances and Ecosystems. 
 
-I my role, I support market research and shape strategic technology partner roadmaps with the hottest and newest technology companies and am a trusted advisor to our partners, product marketing, solution engineers and R&D. I am a passionate about technology and enjoy developing technical workshops, videos, industry presentations, and blogs.
+In my role, I support accelerating and maintaining high-value integrations through technical guidance, ​market research and shaping strategic technology partner roadmaps with the hottest and newest technology companies. I am a trusted advisor to our partners, product marketing, solution engineers and R&D, am a passionate about technology and enjoy developing technical workshops, videos, industry presentations, and blogs.
 
-Prior to Dynatrace, I was a technical services Director advising and building successful software, DevOps, and test automation solutions for 15 years within Professional services companies. 
+Prior to Dynatrace, I was a technical services Director advising and building successful software, DevOps, and test automation solutions within Professional services companies. 
 
 * [My LinkedIn Profile](https://www.linkedin.com/in/robjahn/)
 
